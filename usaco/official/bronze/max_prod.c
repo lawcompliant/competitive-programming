@@ -1,3 +1,4 @@
+// tc O(N*Q)
 #include <stdio.h>
 
 int main() {
